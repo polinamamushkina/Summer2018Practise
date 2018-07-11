@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.exe.config
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.exe
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.pdb
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.exe
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.pdb
