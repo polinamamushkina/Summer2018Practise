@@ -1,0 +1,12 @@
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.exe.config
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.exe
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\bin\Debug\Concatenation.pdb
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.exe
+C:\Users\Пользователь\Documents\Никита\Concatenation\Concatenation\obj\Debug\Concatenation.pdb
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\bin\Debug\Concatenation.exe.config
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\obj\Debug\Concatenation.exe
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\obj\Debug\Concatenation.pdb
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\obj\Debug\Concatenation.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\bin\Debug\Concatenation.exe
+C:\Users\User\Documents\2_ОП\Summer2018Practise\Concatenation\Concatenation\Concatenation\bin\Debug\Concatenation.pdb
